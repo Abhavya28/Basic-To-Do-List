@@ -14,5 +14,5 @@ It helps users add, delete, and mark tasks as completed in a clean UI.
 ---
 
 ## 👩‍💻 Author
-- **Your Name**  
+- **Abhavya Gupta**  
 - GitHub: [@Abhavya28](https://github.com/Abhavya28)
